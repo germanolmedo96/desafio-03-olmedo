@@ -1,0 +1,57 @@
+[
+    {
+        "title": "zapatilla",
+        "description": "deportivas",
+        "code": "abc123",
+        "price": 200,
+        "status": true,
+        "stock": 4,
+        "category": "calzados",
+        "thumbnail": "Sin imagen",
+        "id": 1
+    },
+    {
+        "title": "remera entrenamietno",
+        "description": "remera deportiva",
+        "code": "abc125",
+        "price": 200,
+        "status": true,
+        "stock": 4,
+        "category": "remeras",
+        "thumbnail": "Sin imagen",
+        "id": 2
+    },
+    {
+        "title": "Medias deportivas",
+        "description": "medias para correr",
+        "code": "abc126",
+        "price": 200,
+        "status": true,
+        "stock": 4,
+        "category": "medias",
+        "thumbnail": "Sin imagen",
+        "id": 3
+    },
+    {
+        "title": "gorra de entrenamiento",
+        "description": "gorra de training",
+        "code": "abc127",
+        "price": 200,
+        "status": true,
+        "stock": 4,
+        "category": "gorra",
+        "thumbnail": "Sin imagen",
+        "id": 4
+    },
+    {
+        "title": "remera termica",
+        "description": "remera para gym",
+        "code": "abc128",
+        "price": 200,
+        "status": true,
+        "stock": 4,
+        "category": "remera",
+        "thumbnail": "Sin imagen",
+        "id": 5
+    }
+]
